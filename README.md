@@ -23,3 +23,7 @@ More filters can be added easily by following the bellow steps:
 2. Add the filter algorithm to the program.
 3. Add the index of the filter in the FILTER_LIST and a command to call the respective filter function
 in the create_filter_canvas(). This function takes the index of the banner icon passed as parameter.
+
+
+# Video
+https://youtu.be/WdnBIQMa_kc
